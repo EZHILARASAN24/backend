@@ -1,0 +1,3 @@
+pip install flask
+pip install openllm
+openllm download llama_v3
